@@ -21,7 +21,7 @@ Las principales características que ofrece la aplicación son:
 
 | | | |
 |:--:|:--:| :--:|
-| <img src="screenshots/home.png" alt="Pantalla 1" width="250"/> | <img src="screenshots/login.png" alt="Pantalla 2" width="250"/>| <img src="screenshots/localizacion.png" alt="Pantalla 3" width="250"/>
+| <img src="screenshots/login.png" alt="Pantalla 1" width="250"/> | <img src="screenshots/login.png" alt="Pantalla 2" width="250"/>| <img src="screenshots/localizacion.png" alt="Pantalla 3" width="250"/>
 | <img src="screenshots/permisos.png" alt="Pantalla 1" width="250"/> | <img src="screenshots/form1.png" alt="Pantalla 2" width="250"/>| <img src="screenshots/resultado.png" alt="Pantalla 3" width="250"/>
 | <img src="screenshots/resultado-pastilla-qr.png" alt="Pantalla 1" width="250"/> | <img src="screenshots/recomendaciones.png" alt="Pantalla 2" width="250"/>| <img src="screenshots/qr.png" alt="Pantalla 3" width="250"/>
 
