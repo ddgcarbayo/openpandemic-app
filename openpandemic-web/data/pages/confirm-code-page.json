@@ -1,0 +1,12 @@
+{
+  "antelead": "Hola, antes de comenzar:",
+  "intro": "Introduce el código de 6 dígitos que te hemos enviado por SMS.",
+  "submitButton": "Continuar",
+  "newCodeDelayMsg": "Puedes solicitar un nuevo código en ",
+  "newCodeButton": "Solicitar nuevo SMS",
+  "minutes": "min",
+  "seconds": "s",
+  "error": {
+    "invalidCode": "Código no válido. Por favor, inténtelo de nuevo o solicite un nuevo código."
+  }
+}

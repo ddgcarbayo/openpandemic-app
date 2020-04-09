@@ -1,0 +1,22 @@
+## editors
+openpandemic-web/.idea
+openpandemic-web//.vscode
+
+## system files
+.DS_Store
+
+## npm
+openpandemic-web/node_modules/
+openpandemic-web/npm-debug.log
+
+## testing
+openpandemic-web/coverage/
+
+## temp folders
+openpandemic-web/.tmp/
+
+# build
+openpandemic-web/_site/
+openpandemic-web/dist/
+
+# firebase config

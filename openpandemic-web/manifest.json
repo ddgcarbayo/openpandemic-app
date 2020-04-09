@@ -1,0 +1,28 @@
+{
+    "name": "Open Corona App",
+    "prefer_related_applications": false,
+    "short_name": "Open Corona App",
+    "lang": "en",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#c6acee",
+    "background_color": "blue",
+    "icons": [
+      {
+        "src": "icons/icon_192x192.png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "icons/icon_152x152.png",
+        "sizes": "152x152"
+      },
+      {
+        "src": "icons/icon_512x512.png",
+        "sizes": "512x512"
+      },
+      {
+        "src": "icons/logo.svg",
+        "sizes": "513x513"
+      }
+    ]
+  }

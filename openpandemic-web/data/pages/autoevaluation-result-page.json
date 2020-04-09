@@ -1,0 +1,44 @@
+[
+  {
+    "id": "intro",
+    "anteLead": "Resultado",
+    "heading": "Evaluación",
+    "body": "Aquí verás todas las notificaciones importantes sobre tus evaluaciones",
+    "figure": "",
+    "action": ""
+  },
+  {
+    "id": "resultWithSymptoms",
+    "anteLead": "Tu autoevaluación",
+    "heading": "",
+    "body": "La información que has aportado sugiere posibilidad de tener sintomatología compatible con coronavirus. La mayor parte de las personas presentan un cuadro leve y pueden quedarse en su domicilio. Tus datos han sido recogidos y a través de esta aplicación volveremos a pedirte una autoevaluación transcurridas 12 horas. Si tu situación respiratoria se altera bruscamente en las próximas horas, o tienes alguna otra emergencia, contacta con el teléfono NNN NNN NNN. Recuerda que los servicios médicos y de atención telefónica deben ser usados únicamente por pacientes que presenten gravedad. Usémoslos con responsabilidad.",
+    "figure": "",
+    "disclaimer": "Según los datos aportados sobre tu localización, es posible que hayas estado en contacto cercano con alguna persona con síntomas de coronavirus. Por esa razón, es importante que sigas las recomendaciones que indicamos en tu valoración.",
+    "action": "Ver recomendaciones"
+  },
+  {
+    "id": "resultNoSymptoms",
+    "anteLead": "Tu autoevaluación",
+    "heading": "",
+    "body": "Según los datos que has aportado, pareces no tener síntomas o no son suficientes para determinar que tienes coronavirus. En cualquier caso el coronavirus se presenta con síntomas leves en la mayoría de ocasiones. Si los síntomas que tienes persisten o ves que no mejoras, vuelve a autoevaluarte dentro de 12 horas, y si en cualquier caso tu estado empeora, contacta telefónicamente con tu centro de salud y en caso de emergencia al teléfono NNN NNN NNN. Recuerda que los servicios médicos y de atención telefónica deben ser usados únicamente por pacientes que presenten gravedad. ¡Usémoslos con responsabilidad!",
+    "figure": "",
+    "disclaimer": "Según los datos aportados sobre tu localización, es posible que hayas estado en contacto cercano con alguna persona con síntomas de coronavirus. Por esa razón, es importante que sigas las recomendaciones que indicamos en tu valoración.",
+    "action": "Ver recomendaciones"
+  },
+  {
+    "id": "qr",
+    "anteLead": "Código QR",
+    "heading": "Tu codigo de evaluación",
+    "body": "Emplea este código con las autoridades de tu país para compartirles tu resultados en caso de que lo precisen",
+    "figure": "",
+    "action": "Tu resultado en QR"
+  },
+  {
+    "id": "redo",
+    "anteLead": "",
+    "heading": "",
+    "body": "Podrás autoevaluarte otro vez dentro de",
+    "figure": "",
+    "action": "Hacer nueva autoevaluación"
+  }
+]

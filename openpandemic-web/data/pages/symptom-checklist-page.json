@@ -1,0 +1,80 @@
+{
+  "threshold": 30,
+  "questions": [
+    {
+      "id": "falta_aire",
+      "score": 60,
+      "title": {
+        "es": "¿Tienes sensación de falta de aire de inicio brusco (en ausencia de cualquier otra patología que justifique este síntoma)?"
+      }
+    },
+    {
+      "id": "fiebre",
+      "score": 15,
+      "title": {
+        "es": "¿Tienes fiebre? (+37.7ºC)"
+      }
+    },
+    {
+      "id": "tos",
+      "score": 15,
+      "title": {
+        "es": "¿Tienes tos seca y persistente?"
+      }
+    },
+    {
+      "id": "contacto_positivo",
+      "score": 29,
+      "questionInferredByProximity": true,
+      "title": {
+        "es": "¿Has tenido contacto estrecho con algún paciente positivo confirmado?"
+      }
+    },
+    {
+      "id": "mucosidad",
+      "score": 0,
+      "title": {
+        "es": "¿Tienes mucosidad en la nariz?"
+      }
+    },
+    {
+      "id": "dolor_muscular",
+      "score": 0,
+      "title": {
+        "es": "¿Tienes dolor muscular?"
+      }
+    },
+    {
+      "id": "gastrointestinal",
+      "score": 0,
+      "title": {
+        "es": "¿Tienes sintomatología gastrointestinal?"
+      }
+    },
+    {
+      "id": "mas_20_dias",
+      "score": -15,
+      "title": {
+        "es": "¿Llevas más de 20 días con estos síntomas?"
+      }
+    },
+    {
+      "id": "covid19_curado",
+      "score": 0,
+      "isCured": true,
+      "title": {
+        "es": "¿Has tenido coronavirus antes y has recibido el alta?"
+      }
+    }
+  ],
+  "questionAnswer": {
+    "yes": "Sí",
+    "no": "No"
+  },
+  "intro": {
+    "anteLead" :"Síntomas",
+    "heading": "¿Qué síntomas tienes?",
+    "body": "Responde a las siguientes preguntas para ayudarnos con la evaluación",
+    "action": "Continuar"
+  }
+}

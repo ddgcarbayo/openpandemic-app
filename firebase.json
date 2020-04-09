@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "source": "openpandemic-functions",
+    "ignore": [
+      "**/test/**"
+    ]
+  }
+}

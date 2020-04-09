@@ -1,0 +1,7 @@
+{
+  "enablePersonalData": true,
+  "locationHighAccuracy": true,
+  "waitTimeForNextAutoevaluation": 720,
+  "enableContactTracking": true,
+  "country": "ESP"
+}

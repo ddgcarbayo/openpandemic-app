@@ -1,0 +1,7 @@
+{
+  "title": "Activa los permisos necesarios para utilizar la aplicación",
+  "antelead": "Geolocalización",
+  "intro": "Recomendamos activar tu geolocalización para poder ofrecerte las mejores medidas preventivas y de evaluación. No es obligatorio para poder continuar.",
+  "confirmButton": "Activar",
+  "cancelButton": "Continuar sin activar"
+}

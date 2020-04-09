@@ -1,0 +1,28 @@
+{
+    "title":"Gracias por usar esta app, aquí podrás:",
+    "legal": "Para usar esta aplicación debes ser mayor de 16 años.",
+    "options": [
+        {
+            "image":"instructionsthermometer",
+            "text":"Evaluar tu situación de salud en función de tus síntomas."
+        },
+        {
+            "image":"instructionsbell",
+            "text":"Recibir instrucciones y recomendaciones en función de tu estado de salud."
+        },
+        {
+            "image":"instructionsevaluate",
+            "text":"Evaluarte cada 12h y mantener actualizado tu estado de salud."
+        },
+        {
+            "image":"instructionsheart",
+            "text":"Ayudar a todos los profesionales que trabajan por tu seguridad y bienestar."
+        }
+
+    ],
+    "actions": [
+      {
+        "text":"Empezar"
+      }
+    ]
+}

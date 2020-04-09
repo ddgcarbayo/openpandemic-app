@@ -1,0 +1,4 @@
+{
+  "personalDataKeys" : ["name","idNumber","address","postalCode","region"],
+  "clinicalDataKeys" : ["birthDay","birthMonth","birthYear","gender"]
+}

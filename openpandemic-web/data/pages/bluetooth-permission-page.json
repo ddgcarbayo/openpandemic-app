@@ -1,0 +1,14 @@
+{
+  "title": "Activa los permisos para darte un mejor servicio",
+  "items": [{
+    "title": "Geolocalización",
+    "figure": "location",
+    "text": "Nos permitirá ubicarte y ofrecerte las mejores medidas preventivas y de evaluación."
+  }, {
+    "title": "Bluetooth",
+    "figure": "bluetooth",
+    "text": "Podremos comprobar si has estado cerca de otras personas con síntomas."
+  }],
+  "confirmButton": "Activar",
+  "cancelButton": "Continuar sin activar"
+}

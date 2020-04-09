@@ -1,0 +1,156 @@
+[
+  [
+    {
+      "id": "0"
+    },
+    [
+      {
+        "classMark": false,
+        "heading": "Período de incubación",
+        "figure": "periodoincubacion",
+        "content": [
+          "Ten en cuenta que el período de incubación varía de 5 a 14 días, por lo que en ese tiempo, tu estado podría cambiar. Controla tus síntomas, es recomendable que hagas la autoevaluación cuando observes cambios importantes.",
+          "Podrás realizar el autoevaluación cada 12 horas.",
+          "Anima a las personas que tienes cerca a que hagan también la autoevaluación con la aplicación."
+        ]
+      },
+      {
+        "classMark": false,
+        "heading": "Quédate en casa",
+        "figure": "quedateencasa",
+        "content": [
+          "Es importante restringir las actividades fuera del hogar para evitar ser contagiado o extender el contagio.",
+          "Evita el uso de transporte público, viajes compartidos o taxis."
+        ]
+      },
+      {
+        "classMark": true,
+        "heading": "No acudas a centros sanitarios",
+        "figure": "noacudirhospital",
+        "content": [
+          "Evita acudir directamente a centros sanitarios, si tienes dudas o nuevos síntomas, realiza la autoevaluación de nuevo y sigue los pasos recomendados."
+        ]
+      },
+      {
+        "classMark": true,
+        "heading": "Evita el contacto con personas vulnerables",
+        "figure": "evitacontactopersonavulnerable",
+        "content": [
+          "¿Quién es vulnerable? personas mayores, personas con enfermedades crónicas y con enfermedades previas."
+        ]
+      },
+      {
+        "classMark": true,
+        "heading": "No es obligatorio que utilices mascarilla",
+        "figure": "noobligatoriomascarilla",
+        "content": [
+          "La mascarilla la deben emplear las personas que tienen síntomas y quien está en contacto con ellas."
+        ]
+      },
+      {
+        "classMark": false,
+        "heading": "Lávate las manos con más frecuencia de lo normal.",
+        "figure": "lavarmanos",
+        "content": [
+          "Cómo: la mejor opción es hacerlo con agua y jabón, es importante dedicar atención a los pliegues de la mano y frotar las uñas. Si no tienes agua y jabón a mano, puedes hacerlo con gel desinfectante compuesto por alcohol en un 60% utilizando la misma técnica hasta que sientas las manos secas.",
+          "Duración del lavado: mínimo 20 segundos.",
+          "Cuándo: especialmente si toses, estornudas o te suenas la nariz. También antes y después de ir al baño, cuando vuelvas de la calle y cuando vayas a preparar la comida o tocar alimentos."
+        ]
+      },
+      {
+        "classMark": true,
+        "heading": "Evita tocarte la cara.",
+        "figure": "evitatocarcara",
+        "content": [
+          "Esto incluye especialmente los ojos, la nariz y la boca, sabemos que a veces es inevitable, por eso es muy importante tener las manos muy limpias."
+        ]
+      },
+      {
+        "classMark": false,
+        "heading": "Si necesitas toser o estornudar.",
+        "figure": "sinecesitastoser",
+        "content": [
+          "Ten a mano pañuelos desechables por si necesitas toser o estornudar y tíralos a la basura cuando los utilices. Si no los tienes, tápate con la parte interior del codo."
+        ]
+      },
+      {
+        "classMark": true,
+        "heading": "Evita el contacto con otras personas.",
+        "figure": "evitacontacto",
+        "content": [
+          "Mantener una distancia de seguridad de 2m es muy importante para evitar el contagio hacia ti y también hacia los otros."
+        ]
+      },
+      {
+        "classMark": false,
+        "heading": "Descansa y bebe agua.",
+        "figure": "descansaybebe",
+        "content": [
+          "Es importante mantener tu cuerpo hidratado y enérgico para afrontar un potencial contagio."
+        ]
+      }
+    ]
+  ],
+  [
+    {
+      "id": "1"
+    },
+    [
+      {
+        "classMark": true,
+        "heading": "Distancia de seguridad en casa",
+        "figure": "distanciacasa",
+        "content": [
+          "Respeta la distancia de seguridad también en casa siempre que sea posible, permaneciendo en habitaciones separadas, con la puerta cerrada y utilizando diferentes baños.",
+          "Utiliza una mascarilla cuando necesites estar cerca de la persona con síntomas.",
+          "Recuerda ventilar las habitaciones, pero evita las corrientes de aire hacia el resto de la casa."
+        ]
+      },
+      {
+        "classMark": false,
+        "heading": "Higiene en casa",
+        "figure": "higieneencasa",
+        "content": [
+          "Limpia las superficies y objetos de uso frecuente utilizando productos de limpieza desinfectante y siguiendo las indicaciones de uso. La lejía es lo más eficaz.",
+          "Evita también compartir cubiertos, vajilla, toallas y sábanas con las personas con las que conviven.",
+          "Habilita un cubo de basura con cierre para eliminar los residuos por separado."
+        ]
+      },
+      {
+        "classMark": true,
+        "heading": "Cómo se transmite",
+        "figure": "comosetransmite",
+        "content": [
+          "Por gotas que se expulsan al toser o estornudar, por eso la higiene y evitar el contacto es vital para reducir el contagio."
+        ]
+      },
+      {
+        "classMark": false,
+        "heading": "Si tienes una cita médica ya concertada.",
+        "figure": "sitienescitamedica",
+        "content": [
+          "Llama al centro médico para comunicar la situación y sigue sus recomendaciones."
+        ]
+      }
+    ]
+  ],
+  [
+    {
+      "id": "intro",
+      "anteLead": "Sin síntomas",
+      "classMark": false,
+      "heading": "Recomendaciones para tu autoevaluación",
+      "body": "",
+      "figure": "",
+      "action": ""
+    }
+  ],
+  [
+    {
+      "id": "misc",
+      "own": "Recomendaciones para ti",
+      "other": "Recomendaciones para tu cuidador/a",
+      "action": "Volver"
+    }
+  ]
+]

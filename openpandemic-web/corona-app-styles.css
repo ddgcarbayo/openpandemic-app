@@ -1,0 +1,25 @@
+html {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+html,
+body {
+  height: 100%;
+  font-family: 'Open Sans', sans-serif;
+  overflow: hidden;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgba(255, 255, 255, 1);
+  font-weight: 400;
+}
+
+corona-app {
+  display: block;
+  height: 100%;
+}
+
+.grecaptcha-badge {
+  visibility: hidden;
+}

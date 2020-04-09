@@ -1,0 +1,74 @@
+{
+  "antelead": "Necesitamos algunos datos:",
+  "title": "Introduce tus datos personales",
+  "intro": "Utilizaremos datos relativos a tu salud, para el correcto funcionamiento del servicio de autoevaluación y otras finalidades relacionadas, por motivos de interés público.",
+  "name": {
+    "label": "Nombre y apellidos",
+    "placeholder": "Tu nombre completo"
+  },
+  "birth": {
+    "label": "Fecha de nacimiento",
+    "day": {
+      "label": "Día",
+      "placeholder": "Día"
+    },
+    "month": {
+      "label": "Mes",
+      "placeholder": "Mes"
+    },
+    "year": {
+      "label": "Año",
+      "placeholder": "Año"
+    }
+  },
+  "idNumber": {
+    "label": "DNI/NIE",
+    "placeholder": "Introduce tu DNI/NIE"
+  },
+  "gender": {
+    "label": "Sexo",
+    "woman": "Mujer",
+    "man": "Hombre"
+  },
+  "address": {
+    "label": "Dirección en la que estás",
+    "placeholder": "Calle Principal, 1"
+  },
+  "postalCode": {
+    "label": "Código postal",
+    "placeholder": "28000"
+  },
+  "region": {
+    "label": "Comunidad autónoma donde estás",
+    "placeholder": "Selecciona una comunidad"
+  },
+  "submitButton": "Continuar",
+  "error": {
+    "name": {
+      "required": "El nombre completo es obligatorio",
+      "minLength": "El nombre completo debe ser superior a 4 caracteres"
+    },
+    "birth": {
+      "required": "La fecha de nacimiento es obligatoria",
+      "validDay": "El día debe estar entre 1 y 31",
+      "validMonth": "El mes debe estar entre 1 y 12",
+      "validYear": "El año de nacimiento no es válido"
+    },
+    "idNumber": {
+      "valid": "Necesitas un DNI/NIE válido para usar esta App"
+    },
+    "gender": {
+      "required": "Es necesario seleccionar una opción"
+    },
+    "address": {
+      "required": "La dirección es obligatoria"
+    },
+    "postalCode": {
+      "required": "El código postal es obligatorio",
+      "minLength": "El código postal no es correcto"
+    },
+    "region": {
+      "required": "La comunidad autónoma es obligatoria"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "antelead": "Hola, antes de comenzar:",
+  "title": "Introduce tu móvil",
+  "intro": "Por favor, introduce tu número de teléfono y selecciona el prefijo de tu país.",
+  "prefixLabel": "Prefijo",
+  "prefixDefault": "+34",
+  "phoneLabel": "Teléfono",
+  "legalCheck": "Acepto las <corona-button href=\"/conditions-use\">condiciones de uso</corona-button>&nbsp;y&nbsp;<corona-button href=\"/security-policy\">política de privacidad</corona-button>.",
+  "legalFooter": "La presente aplicación implica el tratamiento de datos sensibles, relativos a tu salud, para el correcto funcionamiento del servicio de autoevaluación y otras finalidades relacionadas, por motivos de interés público.",
+  "submitButton": "Continuar",
+  "error": {
+    "invalidPhone": "Teléfono no válido. Por favor, inténtelo de nuevo."
+  }
+}

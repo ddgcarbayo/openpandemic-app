@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15705" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15706"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="SplashVC" customModule="Corona_App" customModuleProvider="target">
+            <connections>
+                <outlet property="view" destination="gu0-gK-xbZ" id="hfj-US-GCZ"/>
+            </connections>
+        </placeholder>
+        <view contentMode="scaleToFill" id="gu0-gK-xbZ">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="bg_dark_fractal" translatesAutoresizingMaskIntoConstraints="NO" id="a9c-SW-yQF">
+                    <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+            <constraints>
+                <constraint firstItem="a9c-SW-yQF" firstAttribute="trailing" secondItem="FY0-uA-vBC" secondAttribute="trailing" id="BlR-0p-5l3"/>
+                <constraint firstItem="a9c-SW-yQF" firstAttribute="top" secondItem="gu0-gK-xbZ" secondAttribute="top" id="Mlg-Yz-dBu"/>
+                <constraint firstItem="a9c-SW-yQF" firstAttribute="leading" secondItem="FY0-uA-vBC" secondAttribute="leading" id="epX-9P-l8v"/>
+                <constraint firstAttribute="bottom" secondItem="a9c-SW-yQF" secondAttribute="bottom" id="fM5-UG-P2w"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="FY0-uA-vBC"/>
+            <point key="canvasLocation" x="139" y="744"/>
+        </view>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+    </objects>
+    <resources>
+        <image name="bg_dark_fractal" width="562.5" height="1218"/>
+    </resources>
+</document>
